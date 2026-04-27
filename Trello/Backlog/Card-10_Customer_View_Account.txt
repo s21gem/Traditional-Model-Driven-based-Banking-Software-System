@@ -9,3 +9,5 @@ As a Customer, I want to view my account details, personal information, and curr
 Acceptance Criteria:
 1. Dashboard displays an information list correctly.
 2. Accurate profile details and real-time balance are shown.
+
+//Criteria 1 is done.
