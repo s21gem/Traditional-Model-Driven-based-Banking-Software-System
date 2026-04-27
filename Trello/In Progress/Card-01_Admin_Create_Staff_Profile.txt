@@ -9,3 +9,5 @@ As a Bank Administrator, I want to create and manage profiles for bank staff (Ma
 Acceptance Criteria:
 1. User must input required valid staff details.
 2. The system saves the data successfully and shows a success notification.
+
+//Criteria 1 & 2 is done.
