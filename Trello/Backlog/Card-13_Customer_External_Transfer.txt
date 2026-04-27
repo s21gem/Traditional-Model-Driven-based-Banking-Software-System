@@ -1,0 +1,11 @@
+Card Serial: 13
+
+Title:
+[Customer] Initiate external fund transfers
+
+User Story:
+As a Customer, I want to transfer funds to external bank accounts so that I can send money to people using different banks.
+
+Acceptance Criteria:
+1. Form includes fields for routing information.
+2. The system processes the valid routing info and transfers the funds securely.

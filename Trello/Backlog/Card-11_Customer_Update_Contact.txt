@@ -1,0 +1,11 @@
+Card Serial: 11
+
+Title:
+[Customer] Update contact information
+
+User Story:
+As a Customer, I want to update my contact information (phone number, email) so that the bank always has my most recent and valid details.
+
+Acceptance Criteria:
+1. Customer can edit phone/email fields.
+2. The system accepts valid new information and instantly updates the profile.

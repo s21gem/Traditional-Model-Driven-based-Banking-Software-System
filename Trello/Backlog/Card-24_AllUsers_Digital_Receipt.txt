@@ -1,0 +1,11 @@
+Card Serial: 24
+
+Title:
+[All Users] Receive digital receipt for transactions
+
+User Story:
+As a User, I want to receive an automatically generated digital receipt for successful transactions so that I have solid proof of the transaction for future reference.
+
+Acceptance Criteria:
+1. Receipt generates immediately upon transaction success.
+2. The system provides a downloadable/viewable digital receipt.

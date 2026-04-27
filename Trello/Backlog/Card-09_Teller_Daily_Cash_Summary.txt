@@ -1,0 +1,11 @@
+Card Serial: 09
+
+Title:
+[Teller] View daily shift cash summaries
+
+User Story:
+As a Bank Teller, I want to view my daily cash-in and cash-out summaries so that I can balance my cash drawer at the end of my shift.
+
+Acceptance Criteria:
+1. The summary table is generated accurately.
+2. It shows the exact cash inflow and outflow for the specific shift.

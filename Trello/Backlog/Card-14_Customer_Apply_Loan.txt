@@ -1,0 +1,11 @@
+Card Serial: 14
+
+Title:
+[Customer] Apply for bank loans
+
+User Story:
+As a Customer, I want to apply for different types of bank loans (Personal, Home, Education) so that I can get financial assistance when needed.
+
+Acceptance Criteria:
+1. User can select loan type and fill out the application form.
+2. The system successfully accepts the loan application and required documents.

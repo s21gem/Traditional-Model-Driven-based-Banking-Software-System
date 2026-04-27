@@ -1,0 +1,11 @@
+Card Serial: 15
+
+Title:
+[Customer] Track active loan applications
+
+User Story:
+As a Customer, I want to track the current status of my active loan applications so that I know if my loan is pending, approved, or rejected.
+
+Acceptance Criteria:
+1. Dashboard has a section for loan tracking.
+2. It shows the accurate real-time status of the applied loan.

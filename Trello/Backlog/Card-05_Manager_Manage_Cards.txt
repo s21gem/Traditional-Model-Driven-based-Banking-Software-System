@@ -1,0 +1,11 @@
+Card Serial: 05
+
+Title:
+[Manager] Manage customer debit/credit cards
+
+User Story:
+As a Branch Manager, I want to issue, activate, or block customer debit/credit cards so that I can manage card services based on user requests and security needs.
+
+Acceptance Criteria:
+1. Manager can view pending card requests.
+2. The system reflects the card's active or blocked status instantly after the action.

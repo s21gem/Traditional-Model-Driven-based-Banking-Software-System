@@ -1,0 +1,11 @@
+Card Serial: 04
+
+Title:
+[Manager] Review and approve/reject loan applications
+
+User Story:
+As a Branch Manager, I want to review loan applications and update their status (Approved/Rejected) so that I can evaluate financial requests based on bank policies.
+
+Acceptance Criteria:
+1. Manager can view all pending loan applications.
+2. The application status successfully changes and automatically notifies the customer.

@@ -1,0 +1,11 @@
+Card Serial: 02
+
+Title:
+[Admin] Monitor login sessions and access logs
+
+User Story:
+As a Bank Administrator, I want to monitor active login sessions and system access logs so that I can ensure platform security and detect any unauthorized access.
+
+Acceptance Criteria:
+1. The system displays an accurate list of all active sessions.
+2. Recent access history logs are visible with timestamps.

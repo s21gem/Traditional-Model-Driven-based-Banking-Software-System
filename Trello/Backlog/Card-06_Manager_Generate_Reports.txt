@@ -1,0 +1,11 @@
+Card Serial: 06
+
+Title:
+[Manager] Generate branch-wise transaction reports
+
+User Story:
+As a Branch Manager, I want to view and generate branch-wise daily and monthly transaction reports so that I can monitor the branch's overall financial performance.
+
+Acceptance Criteria:
+1. Generated reports display accurate total transactions.
+2. Reports can be filtered by specific daily or monthly periods.

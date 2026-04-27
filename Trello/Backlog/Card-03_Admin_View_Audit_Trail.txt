@@ -1,0 +1,11 @@
+Card Serial: 03
+
+Title:
+[Admin] View automated audit trail
+
+User Story:
+As a Bank Administrator, I want to view an automated audit trail of all critical financial activities so that I can investigate any financial discrepancies, errors, or fraud.
+
+Acceptance Criteria:
+1. The audit table lists all critical actions.
+2. Accurate timestamps and user IDs are attached to each log.

@@ -1,0 +1,11 @@
+Card Serial: 08
+
+Title:
+[Teller] Process physical cash deposits and withdrawals
+
+User Story:
+As a Bank Teller, I want to process physical cash deposits and withdrawals for the customers so that customers can manage their physical funds at the branch.
+
+Acceptance Criteria:
+1. Teller can search customer account by ID/Account Number.
+2. The customer's account balance updates correctly based on the cash input/output.

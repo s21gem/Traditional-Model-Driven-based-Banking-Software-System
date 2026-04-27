@@ -1,0 +1,11 @@
+Card Serial: 18
+
+Title:
+[All Users] Log into the system securely
+
+User Story:
+As a User, I want to log into the system using a secure, valid username and password so that I can securely access my account and protect my data.
+
+Acceptance Criteria:
+1. System authenticates username and password securely.
+2. After successful login, the data associated with the user is accessible.

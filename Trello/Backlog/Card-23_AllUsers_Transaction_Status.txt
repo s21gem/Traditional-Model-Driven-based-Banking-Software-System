@@ -1,0 +1,11 @@
+Card Serial: 23
+
+Title:
+[All Users] View real-time transaction status
+
+User Story:
+As a User, I want to view the real-time status of any transaction (Successful/Pending/Failed) so that I know exactly whether my fund transfer or deposit was completed.
+
+Acceptance Criteria:
+1. Status updates instantly.
+2. Transaction history displays correct and updated real-time statuses.

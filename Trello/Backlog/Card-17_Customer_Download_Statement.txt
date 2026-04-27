@@ -1,0 +1,11 @@
+Card Serial: 17
+
+Title:
+[Customer] Download monthly account statements
+
+User Story:
+As a Customer, I want to generate and download my monthly account statements so that I can keep a secure record of my monthly financial activities.
+
+Acceptance Criteria:
+1. User can select the desired month.
+2. A statement in document format is downloaded successfully containing all records.

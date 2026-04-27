@@ -1,0 +1,11 @@
+Card Serial: 10
+
+Title:
+[Customer] View account details and balance
+
+User Story:
+As a Customer, I want to view my account details, personal information, and current balance so that I can stay informed about my financial status.
+
+Acceptance Criteria:
+1. Dashboard displays an information list correctly.
+2. Accurate profile details and real-time balance are shown.

@@ -1,0 +1,11 @@
+Card Serial: 19
+
+Title:
+[All Users] View role-specific dashboard
+
+User Story:
+As a User, I want to be redirected to my role-specific dashboard after successful login so that I can access tools and menus relevant only to my specific role.
+
+Acceptance Criteria:
+1. System identifies user role upon login.
+2. Dashboard window specific to the user's role is displayed (Admin/Manager/Teller/Customer).

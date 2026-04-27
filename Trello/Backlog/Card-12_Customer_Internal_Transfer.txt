@@ -1,0 +1,11 @@
+Card Serial: 12
+
+Title:
+[Customer] Initiate internal fund transfers
+
+User Story:
+As a Customer, I want to initiate online fund transfers to other accounts within the same bank so that I can easily send money to other local accounts.
+
+Acceptance Criteria:
+1. Transfer form accepts internal account numbers.
+2. Funds are deducted from the sender and added to the receiver's account instantly.

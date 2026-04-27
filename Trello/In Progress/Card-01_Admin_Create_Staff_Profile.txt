@@ -1,0 +1,11 @@
+Card Serial: 01
+
+Title:
+[Admin] Create and manage staff profiles
+
+User Story:
+As a Bank Administrator, I want to create and manage profiles for bank staff (Managers and Tellers) so that authorized staff can securely access the system and perform their duties.
+
+Acceptance Criteria:
+1. User must input required valid staff details.
+2. The system saves the data successfully and shows a success notification.

@@ -1,0 +1,11 @@
+Card Serial: 16
+
+Title:
+[Customer] Request new debit/credit cards
+
+User Story:
+As a Customer, I want to submit requests for new debit or credit cards so that I can get a card for physical and online transactions.
+
+Acceptance Criteria:
+1. User can select card type and submit the request.
+2. Card request is successfully submitted and pending branch manager's approval.

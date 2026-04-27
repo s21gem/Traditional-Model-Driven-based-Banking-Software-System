@@ -1,0 +1,11 @@
+Card Serial: 22
+
+Title:
+[All Users] Auto-update account balances after transaction
+
+User Story:
+As a User, I want to have the system automatically update account balances after a transaction so that the financial records remain perfectly accurate at all times.
+
+Acceptance Criteria:
+1. Balances update within 1-2 seconds post-transaction.
+2. Balance reflects the exact mathematically correct amount.

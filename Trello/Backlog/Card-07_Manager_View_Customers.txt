@@ -1,0 +1,11 @@
+Card Serial: 07
+
+Title:
+[Manager] View total active customers and accounts
+
+User Story:
+As a Branch Manager, I want to view the total number of active customers and accounts in my branch so that I can understand and track the branch's customer base.
+
+Acceptance Criteria:
+1. A dashboard counter is visible.
+2. Counter accurately displays the real-time total number of active users and accounts.
