@@ -9,3 +9,5 @@ As a User, I want to log into the system using a secure, valid username and pass
 Acceptance Criteria:
 1. System authenticates username and password securely.
 2. After successful login, the data associated with the user is accessible.
+
+//Criteria 1 and 2 is done.
