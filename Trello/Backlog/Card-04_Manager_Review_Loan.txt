@@ -9,3 +9,5 @@ As a Branch Manager, I want to review loan applications and update their status 
 Acceptance Criteria:
 1. Manager can view all pending loan applications.
 2. The application status successfully changes and automatically notifies the customer.
+
+//Criteria 1 is done.
