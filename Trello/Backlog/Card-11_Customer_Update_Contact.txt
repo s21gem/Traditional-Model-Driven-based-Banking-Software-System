@@ -8,4 +8,6 @@ As a Customer, I want to update my contact information (phone number, email) so 
 
 Acceptance Criteria:
 1. Customer can edit phone/email fields.
-2. The system accepts valid new information and instantly updates the profile.
+2. The system accepts valid new information and instantly updates the profile by OTP.
+
+//updated criteria 2.
